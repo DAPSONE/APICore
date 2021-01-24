@@ -1,0 +1,9 @@
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\bin\Debug\netcoreapp3.1\JWTCore.Authentication.deps.json
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\bin\Debug\netcoreapp3.1\JWTCore.Authentication.dll
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\bin\Debug\netcoreapp3.1\JWTCore.Authentication.pdb
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.csprojAssemblyReference.cache
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.AssemblyInfoInputs.cache
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.AssemblyInfo.cs
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.dll
+C:\Users\desarrollo-web2\source\repos\JWTCore\JWTCore.Authentication\obj\Debug\netcoreapp3.1\JWTCore.Authentication.pdb
